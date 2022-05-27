@@ -1,0 +1,11 @@
+# unnecessary files
+__pycache__/
+eggs/
+*.egg-info/
+*.egg
+*.log
+
+wandb/
+logs/
+gym_minigrid/__pycache__/
+gym_minigrid/envs/__pycache__/
